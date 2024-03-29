@@ -1,2 +1,5 @@
+ALUMCONNECT: A Web-based Alumni Tracking and Information Management System for PUP Santa Maria Bulacan Campus. It is an alumni portal solution that replaces the manual processing operation of alumni organization of tracer study and posting of events, donations, and job opportunities. It provides easy access to maintain alumni list and inform the alumni with notifications through email.
+
+
 Link here:
 https://pupalumconnect.tech/
