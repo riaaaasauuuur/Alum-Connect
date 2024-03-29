@@ -2,4 +2,4 @@ It is an alumni portal solution that replaces the manual processing operation of
 
 https://pupalumconnect.tech/
 
-Technology Stack: HTML,CSS, JavaScript, Vue, ReactJs, and PostgreSQL.
+Technology Stack: HTML, CSS, JavaScript, Vue, ReactJs, and PostgreSQL.
